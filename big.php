@@ -1,1 +1,1 @@
-print ("Small")
+print ("Big")
